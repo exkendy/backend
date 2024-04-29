@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@iota/converter": "^1.0.0-beta.30",
+    "@iota/core": "^1.0.0-beta.30",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "iota.lib.js": "^0.5.3",
+    "path": "^0.12.7"
+  }
+}
